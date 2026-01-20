@@ -1,0 +1,16 @@
+streamlit
+audiorecorder
+pydub
+speechrecognition
+numpy
+pandas
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+transformers
+torch
+huggingface-hub
+python-dotenv
