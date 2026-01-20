@@ -1,7 +1,6 @@
 streamlit
 audiorecorder
 pydub
-speechrecognition
 numpy
 pandas
 faiss-cpu
